@@ -1,6 +1,6 @@
-# Apllaudably
+# Applaudably
 
-Official website for **Apllaudably** — premium Canva brand kits for small beauty, wellness and lifestyle brands.
+Official website for **Applaudably** — premium Canva brand kits for small beauty, wellness and lifestyle brands.
 
 A fully static site (pure HTML/CSS, no build step) ready for **GitHub Pages** or **Cloudflare Pages**.
 
@@ -29,7 +29,7 @@ assets/style.css            Shared stylesheet
 
 1. Repository **Settings → Pages**
 2. Source: **Deploy from a branch**, branch `main`, folder `/ (root)`
-3. Save — the site goes live at `https://<username>.github.io/Apllaudably/`
+3. Save — the site goes live at `https://<username>.github.io/Applaudably/`
 
 ## Deploy — Cloudflare Pages
 
@@ -40,4 +40,4 @@ assets/style.css            Shared stylesheet
 
 ## Before going live
 
-Replace the placeholder Etsy links (`https://www.etsy.com/shop/Apllaudably`) with your real Etsy shop URL — or better, the direct listing URL on each product page. Search the files for `etsy.com` to find them all.
+Replace the placeholder Etsy links (`https://www.etsy.com/shop/Applaudably`) with your real Etsy shop URL — or better, the direct listing URL on each product page. Search the files for `etsy.com` to find them all.
