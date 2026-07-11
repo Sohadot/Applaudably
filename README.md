@@ -10,20 +10,32 @@ A fully static site (pure HTML/CSS, no build step) ready for **GitHub Pages** or
 index.html                  Home
 about.html                  About the brand
 contact.html                Contact
-products/index.html         Product catalog
-products/*.html             5 product pages (each with a "Buy on Etsy" button)
+faq.html                    FAQ (trust layer)
+license.html                License / usage terms (trust layer)
+download-help.html          How to download & use the kits (trust layer)
+custom.html                 Custom requests (services)
+products/index.html         Collections catalog
+products/*.html             6 product pages (each with a "Buy on Etsy" button)
 journal/index.html          Journal (blog)
 journal/*.html              3 articles
 assets/style.css            Shared stylesheet
+PRODUCT_BLUEPRINT.md        One blueprint per product — filled before any design work
+PRODUCT_ROADMAP.md          4 expansion phases (11 products)
+ETSY_LISTING_SYSTEM.md      Titles, tags, descriptions, images & pricing per listing
 ```
 
-## Products
+## Collections & products
 
-1. Beauty Instagram Template Kit
-2. Skincare Brand Starter Kit
-3. Luxury Salon Social Media Kit
-4. Feminine Brand Moodboard Kit
-5. Product Launch Canva Kit
+**Live on site** (each has a real product page):
+
+- *Beauty & Wellness*: Beauty Instagram Template Kit · Skincare Brand Starter Kit · Luxury Salon Social Media Kit · Feminine Brand Moodboard Kit · Product Launch Canva Kit
+- *Masculine & Grooming*: Luxury Barber Instagram Template Kit
+
+**Roadmap** (see PRODUCT_ROADMAP.md — not shown on the site until their pages are real):
+
+- *Masculine & Grooming*: Men's Grooming Brand Kit
+- *Sport & Lifestyle*: Premium Fitness Coach Instagram Kit · Motorcycle Social Media Template Kit
+- *Professional & Commercial*: Luxury Real Estate Instagram Kit · Executive Consultant Canva Kit
 
 ## Domain
 
