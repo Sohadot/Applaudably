@@ -1,7 +1,7 @@
 # Product Blueprint
 
 Every Applaudably product is defined with this template **before** any design work starts in Canva.
-A product without a completed blueprint does not get built, listed, or shown on the site.
+A product without a completed blueprint does not get built or listed for sale. Illustrative concepts may appear on the site **only if clearly labelled as concepts, with no purchase call-to-action**. The November 2026 commercial focus is nail-studio business visuals; the briefs below are historical ideas, not current offerings.
 
 ## The Template
 
@@ -31,7 +31,7 @@ A product without a completed blueprint does not get built, listed, or shown on 
 - **Visual Direction:** Soft editorial — blush/cream palette, serif display type, generous white space
 - **Etsy Title / Tags:** See ETSY_LISTING_SYSTEM.md
 - **Listing Images Needed:** Grid mockup (9-post feed), 3 close-up template shots, phone mockup, "what's inside" flat lay, editability demo
-- **Status:** Live on site — Canva production next
+- **Status:** Concept example only — not produced or listed
 
 ## 2. Skincare Brand Starter Kit
 
@@ -43,7 +43,7 @@ A product without a completed blueprint does not get built, listed, or shown on 
 - **Visual Direction:** Clean botanical — sage/cream, trust-first minimalism
 - **Etsy Title / Tags:** See ETSY_LISTING_SYSTEM.md
 - **Listing Images Needed:** Brand board hero, logo variations sheet, label mockup on jar/bottle, palette card, IG grid preview
-- **Status:** Live on site — Canva production pending
+- **Status:** Concept example only — not produced or listed
 
 ## 3. Luxury Salon Social Media Kit
 
@@ -55,7 +55,7 @@ A product without a completed blueprint does not get built, listed, or shown on 
 - **Visual Direction:** Quiet luxury — deep neutrals, restrained gold accents
 - **Etsy Title / Tags:** See ETSY_LISTING_SYSTEM.md
 - **Listing Images Needed:** Price list close-up, phone mockup of story set, highlight covers row, feed grid
-- **Status:** Live on site — Canva production pending
+- **Status:** Concept example only — not produced or listed
 
 ## 4. Feminine Brand Moodboard Kit
 
@@ -67,7 +67,7 @@ A product without a completed blueprint does not get built, listed, or shown on 
 - **Visual Direction:** Soft neutral canvas that adapts to any feminine direction
 - **Etsy Title / Tags:** See ETSY_LISTING_SYSTEM.md
 - **Listing Images Needed:** Filled moodboard example, empty vs. filled comparison, palette sheet, board style variety collage
-- **Status:** Live on site — Canva production pending
+- **Status:** Concept example only — not produced or listed
 
 ## 5. Product Launch Canva Kit
 
@@ -79,7 +79,7 @@ A product without a completed blueprint does not get built, listed, or shown on 
 - **Visual Direction:** Warm gold/champagne — celebratory but restrained
 - **Etsy Title / Tags:** See ETSY_LISTING_SYSTEM.md
 - **Listing Images Needed:** Campaign timeline visual, before/during/after launch grid, countdown story mockups
-- **Status:** Live on site — Canva production pending
+- **Status:** Concept example only — not produced or listed
 
 ## 6. Luxury Barber Instagram Template Kit
 
@@ -91,7 +91,7 @@ A product without a completed blueprint does not get built, listed, or shown on 
 - **Visual Direction:** Dark slate/charcoal, strong condensed type, sharp grids
 - **Etsy Title / Tags:** See ETSY_LISTING_SYSTEM.md
 - **Listing Images Needed:** Dark-theme feed grid, menu close-up, before/after template, story set on phone mockup
-- **Status:** Live on site — Canva production pending
+- **Status:** Concept example only — not produced or listed
 
 ---
 
