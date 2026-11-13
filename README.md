@@ -1,6 +1,6 @@
 # Applaudably
 
-Official website for **Applaudably** — premium Canva brand kits for small beauty, wellness and lifestyle brands.
+Official website for **Applaudably** — an independent digital visual design studio showing creative capabilities and offering custom inquiries. Finished digital products are sold only through Etsy.
 
 A fully static site (pure HTML/CSS, no build step) ready for **GitHub Pages** or **Cloudflare Pages**.
 
@@ -14,28 +14,34 @@ faq.html                    FAQ (trust layer)
 license.html                License / usage terms (trust layer)
 download-help.html          How to download & use the kits (trust layer)
 custom.html                 Custom requests (services)
-products/index.html         Collections catalog
-products/*.html             6 product pages (each with a "Buy on Etsy" button)
+products/index.html         12-category capabilities guide + illustrative concept gallery + Etsy shop path
+products/*.html             6 historical product-idea briefs (noindex, clearly not for sale)
 journal/index.html          Journal (blog)
 journal/*.html              3 articles
 assets/style.css            Shared stylesheet
+scripts/validate-site.mjs   Static-site link, concept and commerce integrity checks
 PRODUCT_BLUEPRINT.md        One blueprint per product — filled before any design work
 PRODUCT_ROADMAP.md          4 expansion phases (11 products)
 ETSY_LISTING_SYSTEM.md      Titles, tags, descriptions, images & pricing per listing
 ```
 
-## Collections & products
+## Publishing and commerce policy (November 2026)
 
-**Live on site** (each has a real product page):
+There are three distinct content classes, which must never be conflated:
 
-- *Beauty & Wellness*: Beauty Instagram Template Kit · Skincare Brand Starter Kit · Luxury Salon Social Media Kit · Feminine Brand Moodboard Kit · Product Launch Canva Kit
-- *Masculine & Grooming*: Luxury Barber Instagram Template Kit
+1. **Capabilities** are broad examples of visual design the studio may offer. They can be listed on the site without claiming to be finished files or contracted work.
+2. **Concept briefs** describe proposed product directions. The six historical kits remain accessible, explicitly labelled **concept / not for sale**, with `noindex,follow` and no buy links. They are intentionally excluded from the sitemap.
+3. **Finished digital products** may receive a genuine product detail page, public catalog entry and a **Buy on Etsy** button **only** after final design files are validated and an individual live Etsy listing URL is verified. A shop homepage is not a substitute for a direct product listing.
 
-**Roadmap** (see PRODUCT_ROADMAP.md — not shown on the site until their pages are real):
+The current first digital-product direction is the **Nail Studio Visual Business Kit**, under development; it is not currently represented as a purchasable product.
 
-- *Masculine & Grooming*: Men's Grooming Brand Kit
-- *Sport & Lifestyle*: Premium Fitness Coach Instagram Kit · Motorcycle Social Media Template Kit
-- *Professional & Commercial*: Luxury Real Estate Instagram Kit · Executive Consultant Canva Kit
+The site has no checkout, cart, paid form, digital delivery endpoint or payment processing. Buyers purchase only on `https://applaudably.etsy.com`, and individual product links must point to their matching Etsy listings. Custom design inquiries use **`studio@applaudably.com`** via `mailto:`; the actual mailbox's delivery should be tested before release.
+
+Read `PRODUCT_ROADMAP.md` for the product governance and release gate. The original six kit concepts are retained as an idea backlog, **not** current stock.
+
+## Quality check
+
+Run `node scripts/validate-site.mjs` before merging changes to the website. This verifies local links, the noindex and sitemap treatment of concept pages, category coverage and Etsy-only purchase links.
 
 ## Domain
 
@@ -61,6 +67,6 @@ Note: the `CNAME` file is only used by GitHub Pages; Cloudflare Pages ignores it
 
 ## Before going live
 
-Replace the placeholder Etsy links (`https://www.etsy.com/shop/Applaudably`) with your real Etsy shop URL — or better, the direct listing URL on each product page. Search the files for `etsy.com` to find them all.
+Verify that `studio@applaudably.com` can receive external email and that the Etsy shop opens. When the first product is actually finished, verify its live direct Etsy listing URL before adding any purchase button or product-page structured data.
 
 After the domain is live, submit `https://applaudably.com/sitemap.xml` in Google Search Console to start indexing.

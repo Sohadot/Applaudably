@@ -1,9 +1,10 @@
 # Etsy Listing System
 
-One entry per product. Etsy rules to respect: title ≤ 140 characters, exactly 13 tags, each tag ≤ 20 characters.
-After publishing a listing, paste its **direct URL** into the product page's Buy on Etsy buttons.
+Historical, unverified listing drafts for possible future products. These descriptions must **not** be published verbatim until a real kit exists and every feature, file format, Etsy requirement and licensing claim is verified against the actual finished deliverables. The first commercial focus as of November 2026 is a Nail Studio Visual Business Kit, not one of the historical launch order entries below.
 
-Boilerplate to append to every long description:
+When a finished product is published, verify the live **individual Etsy listing URL** and place it in that product's own purchase button. Never link a `Buy on Etsy` button to the shop homepage. Do not add payment, checkout or direct sale capability to applaudably.com.
+
+**Historical draft boilerplate only — not approved for automatic use.** Replace with accurate claims matched to each actual delivered file and current platform requirements:
 
 > ✦ Instant digital download — a PDF with your Canva template links and quick-start guide.
 > ✦ Works with FREE Canva. Fully editable: colors, fonts, photos, text.
